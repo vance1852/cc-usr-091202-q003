@@ -1,0 +1,7 @@
+{
+  "domain": "城市道路报修",
+  "records": [
+    {"gridId": "RD-031", "road": "新河路", "center": [121.4731, 31.2312], "maintenanceTeam": "排水一班"},
+    {"gridId": "RD-032", "road": "民安街", "center": [121.4740, 31.2320], "maintenanceTeam": "路面二班"}
+  ]
+}
