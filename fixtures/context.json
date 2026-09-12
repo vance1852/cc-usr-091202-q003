@@ -1,7 +1,7 @@
 {
   "domain": "城市道路报修",
   "records": [
-    {"window": "综合受理一号窗", "service": "社保转移", "date": "2026-10-08", "capacity": 18},
-    {"window": "综合受理二号窗", "service": "居住证签注", "date": "2026-10-08", "capacity": 12}
+    {"gridId": "RD-031", "road": "新河路", "center": [121.4731, 31.2312], "maintenanceTeam": "排水一班"},
+    {"gridId": "RD-032", "road": "民安街", "center": [121.4740, 31.2320], "maintenanceTeam": "路面二班"}
   ]
 }
